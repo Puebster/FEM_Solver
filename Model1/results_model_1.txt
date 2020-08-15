@@ -1,0 +1,163 @@
+Knotenverschiebungsvektor v:
+
+[[ 0.0126228 ]
+ [-0.00735536]
+ [ 0.00965188]
+ [-0.00203633]
+ [ 0.00510215]
+ [ 0.00143303]
+ [ 0.00210027]
+ [ 0.00092374]
+ [ 0.00210027]
+ [-0.00120872]
+ [ 0.0048475 ]
+ [-0.00168618]
+ [ 0.0072705 ]
+ [-0.00724395]
+ [ 0.01284561]
+ [-0.01308916]
+ [ 0.00965188]
+ [ 0.00143303]
+ [ 0.00011698]
+ [ 0.00041444]
+ [ 0.00006952]
+ [-0.00047661]
+ [ 0.        ]
+ [ 0.        ]
+ [ 0.        ]
+ [ 0.        ]
+ [ 0.        ]
+ [ 0.        ]]
+
+Lagerreaktionskräfte p:
+
+[[   0.        ]
+ [   0.        ]
+ [   0.        ]
+ [   0.        ]
+ [   0.        ]
+ [   0.        ]
+ [   0.        ]
+ [   0.        ]
+ [   0.        ]
+ [   0.        ]
+ [   0.        ]
+ [   0.        ]
+ [   0.        ]
+ [   0.        ]
+ [  40.        ]
+ [ -30.        ]
+ [   0.        ]
+ [   0.        ]
+ [   0.        ]
+ [   0.        ]
+ [   0.        ]
+ [   0.        ]
+ [ -79.21151296]
+ [-118.81726944]
+ [ 123.33333333]
+ [  22.63453888]
+ [ -84.12182037]
+ [ 126.18273056]]
+
+
+Stabdehnung 1:
+	249116.89019601
+Stabspannung 1:
+	0.00012456
+Stabdehnung 2:
+	540189.78969427
+Stabspannung 2:
+	0.00027009
+Stabdehnung 3:
+	509295.81789407
+Stabspannung 3:
+	0.00025465
+Stabdehnung 4:
+	-0.
+Stabspannung 4:
+	-0.
+Stabdehnung 5:
+	-180063.26323142
+Stabspannung 5:
+	-0.00009003
+Stabdehnung 6:
+	-254647.90894703
+Stabspannung 6:
+	-0.00012732
+Stabdehnung 7:
+	-477464.82927569
+Stabspannung 7:
+	-0.00023873
+Stabdehnung 8:
+	-111408.46016433
+Stabspannung 8:
+	-0.0000557
+Stabdehnung 9:
+	222816.92032865
+Stabspannung 9:
+	0.00011141
+Stabdehnung 10:
+	-135047.44742357
+Stabspannung 10:
+	-0.00006752
+Stabdehnung 11:
+	177940.6358543
+Stabspannung 11:
+	0.00008897
+Stabdehnung 12:
+	-350140.87480217
+Stabspannung 12:
+	-0.00017507
+Stabdehnung 13:
+	-0.
+Stabspannung 13:
+	-0.
+Stabdehnung 14:
+	0.
+Stabspannung 14:
+	0.
+Stabdehnung 15:
+	509295.81789407
+Stabspannung 15:
+	0.00025465
+Stabdehnung 16:
+	-47460.98256489
+Stabspannung 16:
+	-0.00002373
+Stabdehnung 17:
+	-732112.73822273
+Stabspannung 17:
+	-0.00036606
+Stabdehnung 18:
+	180063.26323142
+Stabspannung 18:
+	0.00009003
+Stabdehnung 19:
+	-284705.01736687
+Stabspannung 19:
+	-0.00014235
+Stabdehnung 20:
+	454548.3820978
+Stabspannung 20:
+	0.00022727
+Stabdehnung 21:
+	310573.36198405
+Stabspannung 21:
+	0.00015529
+Stabdehnung 22:
+	0.
+Stabspannung 22:
+	0.
+Stabdehnung 23:
+	-397164.25129166
+Stabspannung 23:
+	-0.00019858
+Stabdehnung 24:
+	-482725.75440247
+Stabspannung 24:
+	-0.00024136
+Stabdehnung 25:
+	0.
+Stabspannung 25:
+	0.
